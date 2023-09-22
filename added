@@ -1,0 +1,17 @@
+ [33mcommit e96c060fd24b6f9079ad10981c4f883fea547c13[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: sergey <smelnicuk0411@gmail.com>
+Date:   Fri Sep 22 22:07:57 2023 +0300
+
+    Add New commands
+
+[33mcommit 0d27e191ccd2b559f410bdbde4b2fa26fe46e645[m
+Author: sergey <smelnicuk0411@gmail.com>
+Date:   Fri Sep 22 21:40:13 2023 +0300
+
+    Delete. The command already exists in the file
+
+[33mcommit 73832f78cba1b52a43508e0ee7e5d5ec16617e8e[m
+Author: sergey <smelnicuk0411@gmail.com>
+Date:   Wed Sep 20 21:03:42 2023 +0300
+
+    first commit
